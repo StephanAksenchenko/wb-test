@@ -1,5 +1,6 @@
 {
-  "About": {
-    "hello": "hello"
-  }
+    "About": {
+        "hello": "hello"
+    },
+    "koko": "koko"
 }
